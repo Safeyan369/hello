@@ -3,8 +3,8 @@
 # Hello World! 
 ## Hello World! 
 ### Hello World! 
---------------------
-这是一个通向[world.md](https://github.com/Keanu-teh/homework/edit/main/test.md)的链接
+
+
 
 *斜体文本*
 _斜体文本_
@@ -14,11 +14,15 @@ __粗体文本__
 ___粗斜体文本___
 
 ~~BAIDU.COM~~
+--------------------
+这是一个通向[world.md](https://github.com/Safeyan369/hello/blob/main/world.md)的链接
+
+
 <u>带下划线de文本</u>
 
 创建脚注格式类似这样 [^RUNOOB]。
 
-[^RUNOOB]: 学的不仅是技术，更是梦想！！！
+[^RUNOOB]: hello world！！！
 
 * 1
 * 2
@@ -33,6 +37,13 @@ ___粗斜体文本___
 - 8
 - 9
 
+> mm
+> mmmmm
+> mmmmmmmmm
+
+
+
+
 1. 第一项
 2. 第二项
 3. 第三项
@@ -44,9 +55,7 @@ ___粗斜体文本___
     - num1
     - num2
 
-> ting
-> hai ku de sheng yin
-> xin tong bi kuail le geng zhen shi
+
 
 > 最外层
 > > 第一层嵌套
@@ -60,8 +69,8 @@ ___粗斜体文本___
 > + 3
 
 * 第一项
-    > Royal
-    > never give up!!!
+    > aaaa
+    > aaaaaaaaaa
 * 第二项
 
 ```javascript
